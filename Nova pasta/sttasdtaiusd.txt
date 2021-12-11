@@ -1,0 +1,21 @@
+Microsoft Windows [versão 10.0.19042.631]
+(c) 2020 Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\Aluno>cd desktop
+
+C:\Users\Aluno\Desktop>dir
+ O volume na unidade C não tem nome.
+ O Número de Série do Volume é DED9-82D1
+
+ Pasta de C:\Users\Aluno\Desktop
+
+27/11/2021  17:47    <DIR>          .
+27/11/2021  17:47    <DIR>          ..
+27/11/2021  17:47    <DIR>          a
+18/09/2021  12:33             1.404 Visual Studio Code.lnk
+               1 arquivo(s)          1.404 bytes
+               3 pasta(s)   449.099.149.312 bytes disponíveis
+
+C:\Users\Aluno\Desktop>cd a
+
+C:\Users\Aluno\Desktop\a>ng new b
